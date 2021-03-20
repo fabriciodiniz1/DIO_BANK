@@ -1,0 +1,16 @@
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\bin\Debug\net5.0\DIO.BANK.exe
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\bin\Debug\net5.0\DIO.BANK.deps.json
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\bin\Debug\net5.0\DIO.BANK.runtimeconfig.json
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\bin\Debug\net5.0\DIO.BANK.runtimeconfig.dev.json
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\bin\Debug\net5.0\DIO.BANK.dll
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\bin\Debug\net5.0\ref\DIO.BANK.dll
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\bin\Debug\net5.0\DIO.BANK.pdb
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\DIO.BANK.csprojAssemblyReference.cache
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\DIO.BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\DIO.BANK.AssemblyInfoInputs.cache
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\DIO.BANK.AssemblyInfo.cs
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\DIO.BANK.csproj.CoreCompileInputs.cache
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\DIO.BANK.dll
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\ref\DIO.BANK.dll
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\DIO.BANK.pdb
+C:\Users\Libertadores\Documents\workspace\dotnet\dio\DIO.BANK\obj\Debug\net5.0\DIO.BANK.genruntimeconfig.cache
