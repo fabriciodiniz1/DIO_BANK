@@ -31,7 +31,7 @@ namespace DIO.BANK
                 return false;
             }
             this.Saldo -= valorSaque;
-			// Você você pode fazer de outra forma:   this.Saldo=this.Saldo - valorSaque;
+			// Você você pode fazer de outra forma: this.Saldo=this.Saldo-valorSaque;
 
             Console.WriteLine("Saldo atual da conta de {0} é {1}", this.Nome, this.Saldo);
 			//Onde esta {0},{1} (parecendo vetor de dados) é a formatação composta da string
